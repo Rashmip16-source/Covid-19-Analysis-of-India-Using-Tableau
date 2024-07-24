@@ -38,4 +38,5 @@ Highlights age groups and genders most affected by the virus.
 Tracks vaccination progress and identifies predominant vaccines.
 Provides detailed state-wise testing information and outcomes.
 This Tableau dashboard leverages advanced data visualization techniques to present crucial Covid-19 statistics for India, aiding in better understanding and decision-making during the pandemic.
+
 Author- Rashmi Paturkar
