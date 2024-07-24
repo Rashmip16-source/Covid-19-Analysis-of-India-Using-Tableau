@@ -32,6 +32,7 @@ Interactive Elements: Includes interactive filters and parameters to allow users
 Color Coding: Consistent color schemes for easy differentiation between categories such as confirmed, recovered, and deaths.
 Annotations and Labels: Clear labeling and tooltips for detailed data insights on hover.
 Layout and Design: Organized layout ensuring clarity and ease of understanding, with charts aligned for a cohesive view.
+
 Insights:
 Identifies states with the highest Covid-19 impact and testing capacity.
 Highlights age groups and genders most affected by the virus.
